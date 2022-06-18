@@ -1,2 +1,4 @@
-package ReqresinApi;public class ReqresinRunner {
+package ReqresinApi;
+
+public class ReqresinRunner {
 }

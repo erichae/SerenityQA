@@ -6,3 +6,5 @@ Feature: API reqre.in
     And The response Body "data.id" should be 3
     And the response Body "data.email" should be "emma.wong@reqres.in"
     And The response Body JSONSchema is "get-single-user.json"
+
+    Scenario:
